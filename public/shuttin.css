@@ -1,0 +1,28 @@
+body {
+  width: 40em;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1 {
+  font-size: 6em;
+  font-family: 'Dancing Script', arial, serif;
+  margin-bottom: .3em;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.follow {
+  float: left;
+  clear: left;
+}
+
+.contact {
+  float: right;
+}
