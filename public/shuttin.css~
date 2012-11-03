@@ -1,5 +1,5 @@
 body {
-  width: 40em;
+  width: 42em;
   margin-right: auto;
   margin-left: auto;
 }
