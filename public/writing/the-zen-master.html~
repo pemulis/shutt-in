@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Zen Master</title>
+    <link rel = 'stylesheet' type = 'text/css' href = '/stylesheets/shuttin.css' />
+  </head>
+  <body class='writing'>
+    <h1>
+			The Zen Master
+		</h1>
+    <p>
+      One dime, three nickels, one penny, the key to his apartment, a half-eaten pack of Twix, an unusually long piece of string, a checkbook, and (in his left pocket) a half-inch of inexplicable yellow sand.
+    </p>
+    <div class = 'contact'>
+			<a href = '/writing/'>back</a>
+    </div>
+  </body>
+</html>

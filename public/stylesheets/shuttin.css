@@ -1,0 +1,65 @@
+body {
+  width: 40em;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+li {
+	font-style: italic;
+	font-size: .8em;
+	color: #555555;
+}
+
+li a {
+	font-size: 1.2em;
+}
+
+a {
+	font-style: normal;
+  text-decoration: none;
+}
+
+h1 {
+	font-size: 3.5em;
+	font-family: arial, serif;
+	margin-bottom: .3em;
+}
+
+#homepage h1 {
+	font-size: 6em;
+  font-family: 'Dancing Script', arial, serif;
+}
+
+#homepage p {
+  font-size: 1.5em;
+}
+
+.writing h1 {
+	font-size: 2em;
+}
+
+.writing p {
+	font-size: .9em;
+	line-height: 150%;
+	text-align: justify;
+}
+
+.center {
+	text-align: center;
+}
+
+.courier {
+	font-family: courier;
+	margin-left: 5em;
+	margin-right: 5em;
+}
+
+.follow {
+  float: left;
+  clear: left;
+}
+
+.contact {
+  float: right;
+	margin-bottom: .3em;
+}
