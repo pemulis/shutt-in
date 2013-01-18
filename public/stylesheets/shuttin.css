@@ -110,11 +110,11 @@ h1 {
   font-size: .8em;
 }
 
-#writing h1 {
+.writing h1 {
 	font-size: 2em;
 }
 
-#writing p {
+.writing p {
 	font-size: .9em;
 	line-height: 150%;
 	text-align: justify;
@@ -128,13 +128,13 @@ h1 {
 }
 
 .center {
-	text-align: center;
+	text-align: center !important;
 }
 
 .courier {
-	font-family: Courier, 'Courier New', monospace;
-	margin-left: 5em;
-	margin-right: 5em;
+	font-family: Courier, 'Courier New', monospace !important;
+	margin-left: 5em !important;
+	margin-right: 5em !important;
 }
 
 .follow {
