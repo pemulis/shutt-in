@@ -46,7 +46,13 @@ h1 {
 
 .center {
 	text-align: center;
-} 
+}
+
+.courier {
+	font-family: courier;
+	margin-left: 5em;
+	margin-right: 5em;
+}
 
 .follow {
   float: left;
