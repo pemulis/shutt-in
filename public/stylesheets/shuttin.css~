@@ -34,6 +34,45 @@ h1 {
   font-size: 1.5em;
 }
 
+#resume h1 {
+  font-size: 3em;
+  font-family: 'Federo', cursive;
+  margin-bottom: .3em;
+  float: right;
+}
+
+#resume a {
+  text-decoration: none;
+}
+
+#resume aside {
+  font-family: sans-serif;
+  float: right;
+  clear: left;
+  margin-bottom: 3em;
+  color: #555;
+}
+
+#resume h2 {
+  clear: both;
+  text-align: left;
+  position: relative;
+  color: #444;
+  margin: 0 -30px 30px -30px;
+  padding: 10px 40px;
+  text-shadow: 0 1px rgba(0,0,0,.8);
+  background-image: -moz-linear-gradient(rgba(255,255,255,.3), rgba(255,255,255,0));
+  background-image: -webkit-linear-gradient(rgba(255,255,255,.3), rgba(255,255,255,0));
+  background-image: -o-linear-gradient(rgba(255,255,255,.3), rgba(255,255,255,0));
+  background-image: -ms-linear-gradient(rgba(255,255,255,.3), rgba(255,255,255,0));
+  background-image:  linear-gradient(rgba(255,255,255,.3), rgba(255,255,255,0));
+  -moz-box-shadow: 0 2px 0 rgba(0,0,0,.3);
+  -webkit-box-shadow: 0 2px 0 rgba(0,0,0,.3);
+  box-shadow: 0 2px 0 rgba(0,0,0,.3);
+}
+
+
+
 .writing h1 {
 	font-size: 2em;
 }
@@ -42,6 +81,7 @@ h1 {
 	font-size: .9em;
 	line-height: 150%;
 	text-align: justify;
+	font-family: 'Esteban', serif;
 }
 
 .center {

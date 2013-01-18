@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>John Shutt's Resume</title>
-    <link rel = 'stylesheet' type = 'text/css' href = '/stylesheets/shuttin_resume.css' />
-    <link href='http://fonts.googleapis.com/css?family=Federo' rel='stylesheet' type='text/css'>
-  </head>
-  <body>
-    <h1>JOHN DANIEL SHUTT</h1>
+	<div id='resume'>
+		<h1>JOHN DANIEL SHUTT</h1>
     <aside>
       Developer | Writer | Editor
     </aside>
@@ -104,5 +97,4 @@
     <p class = 'bottomlinks'>
       <a href = 'mailto:john.d.shutt@gmail.com'>E-mail Me</a> | <a href = 'index.html'>Return Home</a>
     </p>
-  </body>
-</html>
+	</div>
