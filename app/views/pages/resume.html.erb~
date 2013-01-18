@@ -24,8 +24,7 @@
           <a href = 'http://www.radialworksmedia.com'>radialworksmedia.com</a>
         </p>
       <h3>EditYourStuff.com &nbsp;|&nbsp; Freelance Editor</h3>
-			<p><em>November 2011 - May 2012</em
-					></p>
+			<p><em>November 2011 - May 2012</em></p>
           Provided developmental editing, copy editing, and critiquing services to novelists and short story writers. Designed and built the website.
         </p>
         <p>
@@ -95,6 +94,6 @@
           <li>GIMP</li>
         </ul>
     <p class = 'bottomlinks'>
-      <a href = 'mailto:john.d.shutt@gmail.com'>E-mail Me</a> | <a href = 'index.html'>Return Home</a>
+			<a href = 'mailto:john.d.shutt@gmail.com'>E-mail Me</a> | <%= link_to "Return Home", page_path("home") %>
     </p>
 	</div>

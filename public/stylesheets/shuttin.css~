@@ -71,13 +71,56 @@ h1 {
   box-shadow: 0 2px 0 rgba(0,0,0,.3);
 }
 
+#resume h2:before, h2:after
+{
+  content: '';
+  position: absolute;
+  border-style: solid;
+  border-color: transparent;
+  bottom: -10px;
+}
 
+#resume h2:before
+{
+  border-width: 0 10px 10px 0;
+  border-right-color: #222;
+  left: 0;
+}
 
-.writing h1 {
+#resume h2:after
+{
+  border-width: 0 0 10px 10px;
+  border-left-color: #222;
+  right: 0;
+}
+
+#resume h3 {
+  font-size: 1em;
+  font-weight: normal;
+  background-color: #FF3;
+  padding: .2em;
+  max-width: 25em;
+}
+
+#resume p {
+  font-size: .8em;
+}
+
+#resume li {
+  font-size: .8em;
+}
+
+.bottomlinks {
+  font-size: .9em;
+  float: right;
+  text-align: right;
+}
+
+#writing h1 {
 	font-size: 2em;
 }
 
-.writing p {
+#writing p {
 	font-size: .9em;
 	line-height: 150%;
 	text-align: justify;
@@ -89,7 +132,7 @@ h1 {
 }
 
 .courier {
-	font-family: courier;
+	font-family: Courier, 'Courier New', monospace;
 	margin-left: 5em;
 	margin-right: 5em;
 }
