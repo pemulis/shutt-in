@@ -94,6 +94,6 @@
           <li>GIMP</li>
         </ul>
     <p class = 'bottomlinks'>
-			<a href = 'mailto:john.d.shutt@gmail.com'>E-mail Me</a> | <%= link_to "Return Home", page_path("home") %>
+			<a href = 'mailto:john.d.shutt@gmail.com'>E-mail Me</a> | <%= link_to "Return Home", root_url %>
     </p>
 	</div>
