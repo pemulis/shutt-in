@@ -1,0 +1,11 @@
+class ApplicationController < ActionController::Base
+  protect_from_forgery
+	helper_method :title=
+
+	protected
+		
+		def title=(title)
+			@title = title
+			@template.instance_variable_set("@title", @title)
+		end
+end

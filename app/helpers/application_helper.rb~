@@ -1,0 +1,5 @@
+module ApplicationHelper
+	def title
+		h(@title)
+	end
+end

@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Zay Shun</title>
-    <link rel = 'stylesheet' type = 'text/css' href = '/stylesheets/shuttin.css' />
-  </head>
-  <body id='writing'>
+  <div class='writing'>
     <h1>
 			Zay Shun
 		</h1>
@@ -12,7 +6,7 @@
       There is a grainy bitter metallic taste in Tommy's mouth that he associates with coffee. He rolls his tongue over his teeth. He bites down on his tongue a little bit, to see how it feels. He bites a little harder. Tommy blinks constantly when he speaks or is spoken to, and some of his blinks are intense and involve his whole face, like he's blinking angrily. He hacks into computer systems for fun. For money, he helps an Albanian immigrant named Milot skim bank cards at ATMs. Four different cell phones in his backpack. Shoes smeared with red clay from a construction site in Atlanta. Last week he climbed into the rafters of the building's wooden skeleton and sat up there where he could see all around but no one could see him. He is riding a Greyhound back to Birmingham to see his mother. Soiled diaper, somewhere. An evil smell like peat moss and vinegar. Hours yet to go. Trees bend east as they sprint across the windows into the past.
     </p>
     <p>
-    	When Tommy puts his head against the window, his skull vibrates and his thoughts slow down. He is self-diagnosed with a variety of mental disorders; his opinions on what is wrong with him depend on his mood. When in a good mood, he diagnoses himself with bipolar disorder but views it as romantic. When in a bad mood, he diagnoses himself with major depressive disorder. He rubs a finger along the cold metal frame of the bus window. He thinks about his mother's Turkey a la King. Under the bus he has garbage bag full of unshredded documents from a dumpster behind an AT&T office. Favorite drink: Sunkist Orange Soda. If he can not find Sunkist Orange Soda, he will drink Mountain Dew. He will not drink any other kind of orange soda. His first “hack” was guessing the password on his middle school math teacher's computer while she was eating lunch in the faculty room. He sometimes feels insecure about how many of his hacks rely on guessing or stealing passwords. When he feels insecure, he diagnoses himself with generalized anxiety disorder. At all times he diagnoses himself with Asperger's Syndrome, but is proud of it, and never sees a professional in case they tell him that he doesn't have it. He thinks that Milot the Albanian is cheating him, but never brings it up, because Milot is the only person he really talks to face-to-face. When he sees his arms and legs in the mirror, he wishes he could have cybernetic arms and legs. They would look like normal limbs from the outside, but more muscular than his current ones, and he would be able to jump at least three meters into the air. He recognizes the inherent superiority of the metric system and uses it in writing and conversation, but often thinks in Imperial terms, because he is American. He thinks that aging is a solvable problem. He has never been outside of the country. His black ponytail has two hairbands. He studied business administration for one and a half semesters at Lawson State Community College. His mother is dying.
+    	When Tommy puts his head against the window, his skull vibrates and his thoughts slow down. He is self-diagnosed with a variety of mental disorders; his opinions on what is wrong with him depend on his mood. When in a good mood, he diagnoses himself with bipolar disorder but views it as romantic. When in a bad mood, he diagnoses himself with major depressive disorder. He rubs a finger along the cold metal frame of the bus window. He thinks about his mother's Turkey a la King. Under the bus he has garbage bag full of unshredded documents from a dumpster behind an AT&T office. Favorite drink: Sunkist Orange Soda. If he can not find Sunkist Orange Soda, he will drink Mountain Dew. He will not drink any other kind of orange soda. His first ¿hack¿ was guessing the password on his middle school math teacher's computer while she was eating lunch in the faculty room. He sometimes feels insecure about how many of his hacks rely on guessing or stealing passwords. When he feels insecure, he diagnoses himself with generalized anxiety disorder. At all times he diagnoses himself with Asperger's Syndrome, but is proud of it, and never sees a professional in case they tell him that he doesn't have it. He thinks that Milot the Albanian is cheating him, but never brings it up, because Milot is the only person he really talks to face-to-face. When he sees his arms and legs in the mirror, he wishes he could have cybernetic arms and legs. They would look like normal limbs from the outside, but more muscular than his current ones, and he would be able to jump at least three meters into the air. He recognizes the inherent superiority of the metric system and uses it in writing and conversation, but often thinks in Imperial terms, because he is American. He thinks that aging is a solvable problem. He has never been outside of the country. His black ponytail has two hairbands. He studied business administration for one and a half semesters at Lawson State Community College. His mother is dying.
     </p>
     <br>
     <p>
@@ -119,5 +113,4 @@
     <div class = 'contact'>
 			<a href = '/writing/'>back</a>
     </div>
-  </body>
-</html>
+  </div>

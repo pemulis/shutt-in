@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>A Note From a Man in a Tree</title>
-    <link rel = 'stylesheet' type = 'text/css' href = '/stylesheets/shuttin.css' />
-  </head>
-  <body class='writing'>
+  <div class='writing'>
     <h1>
 			A Note From a Man in a Tree
 		</h1>
@@ -21,7 +15,7 @@
     	The treehouse is a wooden platform twelve feet long and ten feet wide with a green tarp stretched overhead. The tarp can be dropped down to form walls in case of rain, but it is usually kept up so that the treehouse can serve as an observation post. The entire structure is built between the trunks of two red alder trees, fairly young, each barely forty feet high. The tree from three years ago was also an alder tree, but it was a white alder, not a red alder. I could tell from the leaves.
     </p>
     <p>
-      When I close my eyes, for some reason I see a mola mola staring at me. It is the largest bony fish in the world, weighs over two-thousand pounds, is six feet long on average, and is almost round. It looks like an enormous fish-head with fins but no body. It gives an impression of sublime silliness. They had mola mola at the Monterey Bay Aquarium when I worked there as a sanitation engineer. Even with such a lowly title, it was the greatest work I have ever had the opportunity to do, until now. Almost two million people visit the Monterey Bay Aquarium every year just to look and wonder at the fantastical…the fantastical creatures. Everyone there shares in an experience of pure wonder. I bought all of the books they had at the gift shop during the time I worked there. I even have some of the books in the treehouse with me now.
+      When I close my eyes, for some reason I see a mola mola staring at me. It is the largest bony fish in the world, weighs over two-thousand pounds, is six feet long on average, and is almost round. It looks like an enormous fish-head with fins but no body. It gives an impression of sublime silliness. They had mola mola at the Monterey Bay Aquarium when I worked there as a sanitation engineer. Even with such a lowly title, it was the greatest work I have ever had the opportunity to do, until now. Almost two million people visit the Monterey Bay Aquarium every year just to look and wonder at the fantastical¿the fantastical creatures. Everyone there shares in an experience of pure wonder. I bought all of the books they had at the gift shop during the time I worked there. I even have some of the books in the treehouse with me now.
     </p>
     <p>
 	    When I was let go due to a misunderstanding with a seahorse biologist, I moved up the coast and worked sporadically, at menial jobs. My constitution could not stand the miserable places I saw and the miserable people I knew there. There was no sense of wonder. I don't have the energy to fully describe this degrading time, but suffice to say that people despised each other and no one had dreams for anything that went past the next few days. How is it that so few of them tried to end it like I did? I took long walks in the woods to escape from these people, and sometimes I couldn't bear to return to town and would sleep in the woods.
@@ -47,5 +41,4 @@
     <div class = 'contact'>
 			<a href = '/writing/'>back</a>
     </div>
-  </body>
-</html>
+	</div>

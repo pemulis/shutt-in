@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>A Small and Perfect Work of Art</title>
-    <link rel = 'stylesheet' type = 'text/css' href = '/stylesheets/shuttin.css' />
-  </head>
-  <body class='writing'>
+  <div class='writing'>
     <h1>
 			A Small and Perfect Work of Art
 		</h1>
@@ -24,5 +18,4 @@
     <div class = 'contact'>
 			<a href = '/writing/'>back</a>
     </div>
-  </body>
-</html>
+  </div>
