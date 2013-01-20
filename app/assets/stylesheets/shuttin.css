@@ -2,6 +2,7 @@ body {
   width: 40em;
   margin-right: auto;
   margin-left: auto;
+	padding-bottom: 2em;
 }
 
 li {
@@ -34,18 +35,18 @@ h1 {
   font-size: 1.5em;
 }
 
-#resume h1 {
+.resume h1 {
   font-size: 3em;
   font-family: 'Federo', cursive;
   margin-bottom: .3em;
   float: right;
 }
 
-#resume a {
+.resume a {
   text-decoration: none;
 }
 
-#resume aside {
+.resume aside {
   font-family: sans-serif;
   float: right;
   clear: left;
@@ -53,7 +54,7 @@ h1 {
   color: #555;
 }
 
-#resume h2 {
+.resume h2 {
   clear: both;
   text-align: left;
   position: relative;
@@ -71,7 +72,7 @@ h1 {
   box-shadow: 0 2px 0 rgba(0,0,0,.3);
 }
 
-#resume h2:before, h2:after
+.resume h2:before, h2:after
 {
   content: '';
   position: absolute;
@@ -80,21 +81,21 @@ h1 {
   bottom: -10px;
 }
 
-#resume h2:before
+.resume h2:before
 {
   border-width: 0 10px 10px 0;
   border-right-color: #222;
   left: 0;
 }
 
-#resume h2:after
+.resume h2:after
 {
   border-width: 0 0 10px 10px;
   border-left-color: #222;
   right: 0;
 }
 
-#resume h3 {
+.resume h3 {
   font-size: 1em;
   font-weight: normal;
   background-color: #FF3;
@@ -102,11 +103,11 @@ h1 {
   max-width: 25em;
 }
 
-#resume p {
+.resume p {
   font-size: .8em;
 }
 
-#resume li {
+.resume li {
   font-size: .8em;
 }
 
@@ -122,10 +123,9 @@ h1 {
 }
 
 .bottomlinks {
-  font-size: .9em;
+  font-size: .9em !important;
   float: right;
   text-align: right;
-	margin-bottom: 1.5em;
 }
 
 .center {

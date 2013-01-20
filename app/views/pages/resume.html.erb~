@@ -1,5 +1,5 @@
 <% provide(:title, "John Shutt's Resume") %>
-	<div id='resume'>
+	<div class='resume'>
 		<h1>JOHN DANIEL SHUTT</h1>
     <aside>
       Developer | Writer | Editor
@@ -72,8 +72,7 @@
         <ul>
 					<li>Ruby on Rails</li>
           <li>HTML/CSS/jQuery</li>
-          <li>PHP</li>
-					<li>MySQL</li>
+          <li>PHP/MySQL</li>
 					<li>Linux Admin</li>
           <li>AWS</li>
 					<li>GIMP</li>
