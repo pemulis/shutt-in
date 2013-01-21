@@ -92,6 +92,6 @@
           <li>Critiquing</li>
         </ul>
     <p class = 'bottomlinks'>
-			<a href = 'mailto:john.d.shutt@gmail.com'>E-mail Me</a> | <%= link_to "Return Home", root_url %>
+			<a href = 'mailto:john.d.shutt@gmail.com'>e-mail me</a> | <%= link_to "return home", root_url %>
     </p>
 	</div>
