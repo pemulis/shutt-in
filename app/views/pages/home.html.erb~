@@ -1,10 +1,14 @@
 <% provide(:title, 'John Shutt') %>
 <div id='homepage'>
-# John Shutt...
-...is a world champion fl&#226;neur and procrastinator.
+	<h1>
+		John Shutt...
+	</h1>
+	<p>
+		...is a world champion fl&#226;neur and procrastinator.
+	</p>
   <div>
     <div class = 'contact'>
-			<a href = 'http://marginscratch.com'>margin scratch</a> | <%= link_to "writing", page_path("writing") %> | <%= link_to "resume", page_path("resume") %> | <a href = 'https://www.twitter.com/jdshutt'>twitter</a> | <a href = 'https://www.github.com/pemulis'>github</a> | <a href = 'mailto:john.d.shutt@gmail.com'>e-mail</a>
+			<a href = 'https://www.github.com/pemulis'>github</a> | <%= link_to "writing", page_path("writing") %> | <%= link_to "resume", page_path("resume") %> | <a href = 'https://www.twitter.com/jdshutt'>twitter</a> | <a href = 'mailto:john.d.shutt@gmail.com'>e-mail</a>
     </div>
   </div>
 </div>
