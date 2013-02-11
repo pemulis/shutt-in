@@ -4,11 +4,11 @@
 		John Shutt...
 	</h1>
 	<p>
-		...is a world champion fl&#226;neur and procrastinator.
+		...is a world champion fl&#226;neur and idle thinker.
 	</p>
   <div>
     <div class = 'contact'>
-			<a href = 'https://www.github.com/pemulis'>github</a> | <%= link_to "writing", page_path("writing") %> | <%= link_to "resume", page_path("resume") %> | <a href = 'https://www.twitter.com/jdshutt'>twitter</a> | <a href = 'mailto:john.d.shutt@gmail.com'>e-mail</a>
+			<a href = 'https://www.github.com/pemulis'>github</a> | <a href = 'https://www.twitter.com/jdshutt'>twitter</a> | <%= link_to "writing", page_path("writing") %> | <%= link_to "resume", page_path("resume") %> | <a href = 'mailto:john.d.shutt@gmail.com'>e-mail</a>
     </div>
   </div>
 </div>
