@@ -35,15 +35,16 @@ h1 {
 #homepage {
 	h1 {
 		font: {
-			size: 6em;
+			size: 3em;
 			family: 'Dancing Script', arial, serif;
 		}
+    text-align: center;
 	}
 	
 	p {
-		font-size: 1.5em;
-    width: 19em;
+    font-size: 1.2em;
     float: left;
+    color: #444;
     margin: {
       top: 0em;
       right: 2em;
@@ -172,6 +173,6 @@ h1 {
 
 .contact {
   float: left;
-  text-align: right;
+  text-align: center;
 	margin-bottom: .3em;
 }
