@@ -1,12 +1,25 @@
 <% provide(:title, 'John Shutt') %>
 <div id='homepage'>
-  <blink><h1>
-    John Shutt's World Wide Web Page on the Internet
-  </h1></blink>
+  <blink>
+    <h1>John Shutt's World Wide Web Page on the Internet</h1>
+  </blink>
   <div align='center'>
-    <%= image_tag "mallard.gif" %> <%= image_tag "mallard.gif" %> <%= image_tag "mallard.gif" %>
+    <%= image_tag "mallard.gif" %> 
+    <%= image_tag "mallard.gif" %> 
+    <%= image_tag "mallard.gif" %>
   </div>
   <div class = 'contact'>
-    <marquee><%= link_to "git highlighter", "https://github.com/pemulis/git-highlighter" %> &middot; <%= link_to "venture bros", "http://venturestudies.com" %> &middot; <%= link_to "openlibrary gem", "https://github.com/jayfajardo/openlibrary" %> &middot; <%= link_to "madswag", "https://github.com/pemulis/madswag" %> &middot; <%= link_to "github", "https://www.github.com/pemulis" %> &middot; <%= link_to "twitter", "https://www.twitter.com/pembulis" %> &middot; <%= link_to "goodreads", "http://www.goodreads.com/johnshutt" %> &middot; <%= link_to "writing", page_path("writing") %> &middot; <%= link_to "resume", page_path("resume") %> &middot; <%= link_to "e-mail", "mailto:john.d.shutt@gmail.com" %></marquee>
+    <marquee>
+    <%= link_to "git highlighter", "https://github.com/pemulis/git-highlighter" %> &middot; 
+    <%= link_to "venture bros", "http://venturestudies.com" %> &middot; 
+    <%= link_to "openlibrary gem", "https://github.com/jayfajardo/openlibrary" %> &middot; 
+    <%= link_to "madswag", "https://github.com/pemulis/madswag" %> &middot; 
+    <%= link_to "github", "https://www.github.com/pemulis" %> &middot; 
+    <%= link_to "twitter", "https://www.twitter.com/pembulis" %> &middot; 
+    <%= link_to "goodreads", "http://www.goodreads.com/johnshutt" %> &middot; 
+    <%= link_to "writing", page_path("writing") %> &middot; 
+    <%= link_to "resume", page_path("resume") %> &middot; 
+    <%= link_to "e-mail", "mailto:john.d.shutt@gmail.com" %>
+    </marquee>
   </div>
 </div>
