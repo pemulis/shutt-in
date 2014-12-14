@@ -146,6 +146,11 @@ h1 {
 		line-height: 150%;
 		text-align: justify;
 	}
+  ul {
+    li {
+      list-style-type: none;
+    }
+  }
 }
 
 .bottomlinks {
