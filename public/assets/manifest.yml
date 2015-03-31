@@ -17,9 +17,11 @@ tor.gif: tor-02541396b99146aa91e4df7fe8901d01.gif
 tor/index.gif: tor-02541396b99146aa91e4df7fe8901d01.gif
 tower.gif: tower-2726f7b37fc31b7aa2d27588f780d05f.gif
 tower/index.gif: tower-2726f7b37fc31b7aa2d27588f780d05f.gif
+welcome.gif: welcome-50ffc9e945a239acc080e76fe539933a.gif
+welcome/index.gif: welcome-50ffc9e945a239acc080e76fe539933a.gif
 application.js: application-8d31eacd6f6b700a00284fc6b572c910.js
 application/index.js: application-8d31eacd6f6b700a00284fc6b572c910.js
-application.css: application-b7589c0ceb9ff174c2e1579c6c5a6bb0.css
-application/index.css: application-b7589c0ceb9ff174c2e1579c6c5a6bb0.css
+application.css: application-549ed479f08893c46dc22491869e1cc7.css
+application/index.css: application-549ed479f08893c46dc22491869e1cc7.css
 jquery.min.map: jquery.min-388372ef65cc311f6a3df4a6ceac8d22.map
 jquery/index.min.map: jquery.min-388372ef65cc311f6a3df4a6ceac8d22.map
