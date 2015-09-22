@@ -14,3 +14,6 @@
 /log/*.log
 /tmp
 *~
+*.swp
+_site
+_site/*
