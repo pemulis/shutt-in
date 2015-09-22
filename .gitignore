@@ -17,3 +17,4 @@
 *.swp
 _site
 _site/*
+.jekyll-metadata
