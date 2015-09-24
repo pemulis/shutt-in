@@ -8,14 +8,20 @@ body {
 
 section {
   margin-bottom: 20px;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 aside {
   font-style: italic;
 }
 
+a {
+  text-decoration: none;
+  &:hover, &:active, &:visited {
+    text-decoration: underline;
+  }
+}
+
 #back-to-top {
-  display: block;
-  margin-top: 20px;
+  color: deeppink;
 }
