@@ -16,13 +16,22 @@ body {
   padding-right: 15px;
 }
 
-section, nav {
-  margin-bottom: 20px;
+li, nav {
+  margin-bottom: 18px;
   font-size: 18px;
   line-height: 1.333;
   @media screen and (max-width: 600px) {
     margin-bottom: 24px;
   }
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style-type: none;
+  margin-left: 0;
 }
 
 aside {
