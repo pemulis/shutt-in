@@ -19,6 +19,10 @@ body {
 section, nav {
   margin-bottom: 20px;
   font-size: 18px;
+  line-height: 1.333;
+  @media screen and (max-width: 600px) {
+    margin-bottom: 24px;
+  }
 }
 
 aside {
