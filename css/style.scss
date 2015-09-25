@@ -16,13 +16,8 @@ body {
   padding-right: 15px;
 }
 
-li, nav {
-  margin-bottom: 18px;
-  font-size: 18px;
-  line-height: 1.333;
-  @media screen and (max-width: 600px) {
-    margin-bottom: 24px;
-  }
+h1, h2 {
+  clear: left;
 }
 
 ul {
@@ -30,8 +25,33 @@ ul {
 }
 
 li {
+  margin-bottom: 18px;
+  font-size: 18px;
+  line-height: 1.333;
   list-style-type: none;
   margin-left: 0;
+  @media screen and (max-width: 800px) {
+    margin-bottom: 24px;
+  }
+}
+
+nav li {
+  float: left;
+  margin-right: 32px;
+  margin-bottom: 0;
+  &:last-of-type {
+    margin-right: 0;
+    margin-bottom: 24px;
+  }
+  @media screen and (max-width: 800px) {
+    margin-right: 0;
+    &::after {
+      content: "\a0\b7\a0";
+    }
+    &:last-of-type::after {
+      content: "";
+    }
+  }
 }
 
 aside {
