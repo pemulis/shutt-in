@@ -3,8 +3,11 @@
 <head>
   <title>{{ page.title }}</title>
   <link href='/css/style.css' rel='stylesheet'>
+  {% if page.css %}
+    <link href='/css/{{ page.css }}.css' rel='stylesheet'>
+  {% endif %}
 </head>
-<body class='page {{ page.class }}'>
+<body class='page'>
 
 {{ content }}
 

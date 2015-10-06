@@ -1,0 +1,97 @@
+---
+---
+html {  
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 60px 0 8px 0;
+  &:first-of-type {
+    margin: 24px 0 8px 0;
+  }
+}
+
+h2 {
+  margin: 24px 0 4px 0;
+  letter-spacing: 1px;
+  &:first-of-type {
+    margin: 12px 0 4px 0;
+  }
+}
+
+aside {
+  margin-bottom: 8px;
+  font-size: 16px;
+  &.title {
+    margin-top: 8px;
+  }
+}
+
+h2, aside.title {
+  font-size: 18px;
+}
+
+p {
+  font-size: 14px;
+}
+
+section {
+  float: left;
+  clear: none;
+  padding: 0;
+}
+
+img.profile {
+  width: 82%;
+  margin: 24px auto 0 auto;
+}
+
+#identity {
+  width: 34%;
+  text-align: center;
+  position: fixed;
+  top: 10;
+  left: 0;
+  padding: 0 15px;
+  p {
+    &.name {
+      font-size: 24px;
+      margin-bottom: 12px;
+    }
+  }
+}
+
+#main {
+  width: 66%;
+  margin-left: 34%; // plays nicely with fixed-width #identity
+  padding: 0 24px 24px 24px;
+  p {
+    text-align: justify;
+    margin-top: 12px;
+  }
+}
+
+@media print {
+  h1 {
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  h1 {
+    font-size: 24px;
+  }
+  #identity, #main {
+    width: 100%;
+    padding: 0 0 24px 0;
+  }
+  #main {
+    margin-left: 0;
+  }
+  #identity {
+    position: relative;
+  }
+}
