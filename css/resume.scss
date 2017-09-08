@@ -30,7 +30,7 @@ aside {
   }
 }
 
-h2, aside.title {
+h2 {
   font-size: 18px;
 }
 
@@ -57,6 +57,7 @@ img.profile {
   left: 0;
   padding: 0 15px;
   p {
+    font-size: 16px;
     &.name {
       font-size: 32px;
       text-transform: uppercase;
