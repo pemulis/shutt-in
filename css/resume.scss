@@ -25,8 +25,12 @@ h2 {
 aside {
   margin-bottom: 8px;
   font-size: 16px;
+  font-weight: 100;
   &.title {
     margin-top: 8px;
+  }
+  &.dates {
+    color: lightgray;
   }
 }
 
@@ -76,6 +80,7 @@ img.profile {
   p {
     text-align: justify;
     margin-top: 12px;
+    font-weight: 100;
   }
 }
 
